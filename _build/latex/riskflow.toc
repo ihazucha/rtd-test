@@ -1,4 +1,0 @@
-\babel@toc {english}{}
-\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
-\contentsline {section}{\numberline {1.1}About the application}{3}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Main functionalities}{3}{section.1.2}%
